@@ -40,7 +40,7 @@ If user has no account, they click on `sign up` | User signs up | User is redire
 * In your terminal:
         
         $ git clone https://github.com/virginiah894/Fuzzy_couscious
-        $ cd instalite
+     
 
 ## Running the Application
 * Install virtual environment using `$ python3.6 -m venv --without-pip virtual`
