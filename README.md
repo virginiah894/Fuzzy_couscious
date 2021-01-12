@@ -1,8 +1,4 @@
-# Instalite
-
-
-## Description
-Instalite is a social web application that allows users to upload their photos and see other user's photos. Visit the live site on `https://insta-lite-app.herokuapp.com/`
+`
 
 
 ## Author
