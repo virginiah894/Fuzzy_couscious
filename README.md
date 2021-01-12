@@ -8,7 +8,7 @@ Instalite is a social web application that allows users to upload their photos a
 ## Author
 
 
-* [**Brian Major**](https://github.com/bryomajor)
+* [**Virginiah Periah**](https://github.com/bvirginiah894)
 
 ## Features
 
@@ -43,7 +43,7 @@ If user has no account, they click on `sign up` | User signs up | User is redire
 ### Cloning
 * In your terminal:
         
-        $ git clone https://github.com/bryomajor/instalite.git
+        $ git clone https://github.com/virginiah894/Fuzzy_couscious
         $ cd instalite
 
 ## Running the Application
@@ -75,13 +75,3 @@ If user has no account, they click on `sign up` | User signs up | User is redire
 This application is developed using [Python3.6](https://www.python.org/doc/), [Django](https://www.djangoproject.com/), [HTML](https://getbootstrap.com/) and [Bootstrap](https://getbootstrap.com/)
 
 
-## Support and Team
-Brian Major
-
-
-[Slack Me!](https://slack.com/intl/en-ke/)  @bryomajor
-
-
-### License
-
-* LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
