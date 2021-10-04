@@ -26,7 +26,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'veep460@gmail.com'
-EMAIL_HOST_PASSWORD = 'periah@12345'
+EMAIL_HOST_PASSWORD = ''
 
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
